@@ -2,7 +2,7 @@
 <h1><strong>Olá Me Chamo Kayky Antonio</strong></h1>
 <h1><strong>==========================</strong></h1>
 <br>
-<h1><strong> Sobre mim </strong></h1>
+<h1><strong> SOBRE MIM </strong></h1>
 <strong>Estudante de programação: </strong>
   <strong>Iniciei no mundo da programação aos 16 anos e posso dizer que é bem legal, quando você pode criar algo e ainda funcionar
     e melhor ainda, agora meu sonho é poder trabalhar com front end, já que quando estamos programando, estamos também estimulando
@@ -10,7 +10,7 @@
     tenho 18 anos e sigo nesta jornada, aprendendo para que eu possa trabalhar tendo uma bagagem boa.
   </strong>
   <br><br>
-<h2><strong>  TECNOLOGIAS MAIS JÁ USADAS E AINDA USADAS POR MIM</strong></h2>
+<h2><strong>  TECNOLOGIAS MAIS JÁ USADAS E AINDA USADAS POR MIM </strong></h2>
 <div style="display: inline_block"><br>
 <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
