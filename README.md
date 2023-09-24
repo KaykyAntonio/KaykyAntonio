@@ -5,7 +5,7 @@
 <strong>Estudante de programação: </strong>
   <strong>Iniciei no mundo da programação aos 16 anos e posso dizer que é bem legal, quando você pode criar algo e ainda funcionar
     e melhor ainda, agora meu sonho é poder trabalhar com front end, já que quando estamos programando, estamos também estimulando
-    nossa parte mais lógica, As tecnologias que eu vi ao longo da minha vida, foram: HTML, CSS, JAVASCRIPT, PYTHON e C#.
+    nossa parte mais lógica, As tecnologias que eu vi ao longo da minha vida, foram: HTML, CSS, JAVASCRIPT, PYTHON e C#, 
     tenho 18 anos e sigo nesta jornada, aprendendo para que eu possa trabalhar tendo uma bagagem boa.
   </strong>
   <br><br>
@@ -18,4 +18,9 @@
 <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 <h2><strong> SISTEMA OPERACIONAL </strong></h2>
-<img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white " />
+<img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<h2><strong> IDE PARA DESENVOLVIMENTO </strong></h2>
+<img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<h2><strong> INSTITUIÇÕES DE ENSINO </strong></h2>
+<strong>📖 Alura Cursos online de tecnologia</strong><br>
+<strong>📖 Escola do trabalhador 4.0</strong>
