@@ -26,6 +26,11 @@
 <h2><strong> INSTITUIÇÕES DE ENSINO </strong></h2>
 <strong>📖 Alura Cursos online de tecnologia</strong><br>
 <strong>📖 Escola do trabalhador 4.0</strong>
-<h2><strong>CERTIFICADOS</strong></h2>
-🔰 <img src= "file:///C:/Users/Eduardo/Desktop/Certificados/Certificate_229898_9_0g0v6.pdf">
+
+
+
+
+
+
+
 
