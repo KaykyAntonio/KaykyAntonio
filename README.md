@@ -26,3 +26,4 @@
 <h2><strong> INSTITUIÇÕES DE ENSINO </strong></h2>
 <strong>📖 Alura Cursos online de tecnologia</strong><br>
 <strong>📖 Escola do trabalhador 4.0</strong>
+<h2><strong>CERTIFICADOS</strong></h2>
