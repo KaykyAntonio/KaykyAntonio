@@ -1,8 +1,3 @@
-
-
-<h1><strong>==========================</strong></h1>
-<h1><strong>Olá Me Chamo Developer</strong></h1>
-<h1><strong>==========================</strong></h1>
 <h2><strong> SOBRE MIM </strong></h2>
 <strong>Estudante de programação: </strong>
   <strong>Iniciei no mundo da programação aos 16 anos e posso dizer que é bem legal, quando você pode criar algo e ainda funcionar
