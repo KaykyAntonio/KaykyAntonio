@@ -30,6 +30,7 @@
 <h2><strong> JOGOS E BATE PAPO </strong>
 <div style="display: inline_block"><br>
 <img src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img src= "https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 </div>
 <h2><strong> INSTITUIÇÕES DE ENSINO </strong></h2>
 <strong>📖 Alura Cursos online de tecnologia</strong><br>
