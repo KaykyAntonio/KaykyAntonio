@@ -21,6 +21,7 @@
 <img src= "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> 
 <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white " />
 </div>
+<h2><strong> TECONOLOGIAS EM FOCO</strong>
 <h2><strong> SISTEMA OPERACIONAL </strong></h2>
 <img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <h2><strong> IDE PARA DESENVOLVIMENTO </strong></h2>
