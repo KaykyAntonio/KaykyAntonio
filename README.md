@@ -1,9 +1,8 @@
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 <h2><strong> SOBRE MIM </strong></h2>
 <strong>Estudante de programação: </strong>
-  <strong>Iniciei no mundo da programação aos 16 anos e posso dizer que é bem legal, quando você pode criar algo e ainda funcionar
-    e melhor ainda, agora meu sonho é poder trabalhar com front end, já que quando estamos programando, estamos também estimulando
-    nossa parte mais lógica, As tecnologias que eu vi ao longo da minha vida, foram: HTML, CSS, JAVASCRIPT, PYTHON e C#, 
+  <strong>Iniciei no mundo da programação aos 15 anos e posso dizer que é bem legal, quando você pode criar algo e ainda funcionar,
+    o meu sonho é poder trabalhar com front end, já que quando estamos desenvolvendo, estamos também desenvolvendo
+    nossa parte mais lógica, As tecnologias que eu vi ao longo da minha vida, foram: HTML, CSS, JAVASCRIPT, PYTHON, C#, HTML5, JAVA, AUTOHOTKEY e LUA, 
     tenho 18 anos e sigo nesta jornada, aprendendo para que eu possa trabalhar tendo uma bagagem boa, no entanto meu foco é voltado totalmente apenas para o front end com HTML CSS E JAVASCRIPT.
   </strong>
   <br><br>
