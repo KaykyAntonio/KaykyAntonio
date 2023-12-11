@@ -14,7 +14,8 @@
 <img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img src= "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> 
-<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white " />
+<img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src= "https://img.shields.io/badge/AutoHotkey-334455.svg?style=for-the-badge&logo=AutoHotkey&logoColor=white" />
 </div>
 <h2><strong> TECNOLOGIAS EM FOCO</strong>
 <div style="display: inline_block"><br>
