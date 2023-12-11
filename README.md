@@ -22,7 +22,7 @@
 <h2><strong> SISTEMA OPERACIONAL </strong></h2>
 <img src= "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <h2><strong> IDE PARA DESENVOLVIMENTO </strong></h2>
-<img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src = "https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 <h2><strong> INSTITUIÇÕES DE ENSINO </strong></h2>
 <strong>📖 Alura Cursos online de tecnologia</strong><br>
 <strong>📖 Escola do trabalhador 4.0</strong>
